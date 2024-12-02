@@ -21,7 +21,7 @@ const Projects = () => {
             image: livedocs,
             technologies:["React", "Next.js", "Tailwind","Typescript","ShadCN UI"," Clerk"],
             github: "https://github.com/Anshuman133/LiveDocs",
-            live: "https://yoom.vercel.app"
+            live: "https://jsm-live-docs.vercel.app"
         },
         ,
         {

@@ -1,7 +1,7 @@
 import React from 'react'
 import heroImg from "../assets/Hero.png"
 const openResume = () => {
-    window.open('https://drive.google.com/file/d/1HUvCELDyTlPG_1b4UGZ4jwxIylB4JPW9/view?usp=sharing', '_blank');
+    window.open('https://drive.google.com/file/d/1AW3dCvnRDM9XCP2b3vZWYbvegSAGvFZJ/view?usp=sharing', '_blank');
   }
   
 const Home = () => {
